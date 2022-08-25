@@ -1,3 +1,3 @@
-function (ÉsumMaCaCo){
-    return Seu MaCaCo;
+function seuMacaco(ÉsumMaCaCo){
+    return "Seu MaCaCo";
 }
