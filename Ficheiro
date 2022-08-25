@@ -1,3 +1,20 @@
-Aaaaaa
-bbbbbb
-AHSJGDAJDGLUYAGS LUYDIGQAÇIYSDGASGDLUYGASLUYFDYUFASUYDFAUSYFGDUYu
+PARA QUEM VAI ENVIAR
+
+Primeiro:
+    git add .
+
+Segundo:
+    git commit -m "mesnagem aqui"
+
+Terceiro:
+    git push
+
+
+PARA QUEM QUER RECEBER
+
+Primeiro:
+    git pull
+
+
+PARA VER STATUS 
+    git status
